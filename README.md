@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">linux developer and enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&color=c01c28&style=flat" alt="be1acprogrammer" /> </p>
 
