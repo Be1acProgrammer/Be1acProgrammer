@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with: **Css, JavaScript, and Python**
 
-- 👨‍💻 All of my projects are available at: github and codeberg [https://codeberg.org/be1ac](https://codeberg.org/be1ac)
+- 👨‍💻 All of my projects are available at: github and [codeberg](https://codeberg.org/be1ac)
 
 - 💬 Ask me about: **any code in C because I am very good at it!**
 
