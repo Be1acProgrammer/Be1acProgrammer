@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZagaNerd</h1>
 
-<h3 align="center">Linux Developer & Enthusiast</h3>
+<h3 align="center">Linux Developer & Enthusiast From The U.S.A!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&color=c01c28&style=flat" alt="be1acprogrammer" /> </p>
 
