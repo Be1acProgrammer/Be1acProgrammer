@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **linux is more fun than windows**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: githubhelp.hqu1p@simplelogin.com</h3>
 <p align="left">
 </p>
 
