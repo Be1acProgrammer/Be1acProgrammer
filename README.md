@@ -6,8 +6,6 @@
 src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&color=be5046&style=flat"
  alt="be1acprogrammer" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&color=c01c28&style=flat" alt="be1acprogrammer" /> </p>
-
 - 🔭 I’m currently working on: [linux daily](https://archlinux.org)
 
 - 🌱 I’m currently learning: **JavaScript and Python**
