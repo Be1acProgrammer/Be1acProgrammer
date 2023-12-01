@@ -40,5 +40,10 @@ src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&c
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=be1acprogrammer&show_icons=true&title_color=f38ba8&text_color=eba0ac&bg_color=1e1e2e&locale=en" alt="be1acprogrammer" /></p>
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=be1acprogrammer&show_icons=true&title_color=f5a97f&text_color=f5a97f&bg_color=181825&locale=en&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=be1acprogrammer&show_icons=true&title_color=be5046&text_color=be5046&bg_color=181825&locale=en&layout=compact"
+ alt="be1acprogrammer" /></p>
+
+<p>&nbsp;<img
+ align="center" 
+src="https://github-readme-stats.vercel.app/api?username=be1acprogrammer&show_icons=true&title_color=be5046&text_color=be5046&bg_color=181825&locale=en"
  alt="be1acprogrammer" /></p>
