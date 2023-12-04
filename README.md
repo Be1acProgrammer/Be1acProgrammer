@@ -22,7 +22,7 @@ src="https://komarev.com/ghpvc/?username=be1acprogrammer&label=Profile%20views&c
 
 - ⚡ Fun fact **linux is more fun than windows**
 
-- 米: I Highly Recommend You Check Out My [.Files](https://github.com/Be1acProgrammer/dotfiles)
+- 🍧: I Highly Recommend You Check Out My [.Files](https://github.com/Be1acProgrammer/dotfiles)
 
 --------------
 <h3 align="left">Connect with me: githubhelp.hqu1p@simplelogin.com</h3>
