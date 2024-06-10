@@ -1,5 +1,22 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on: [linux daily](https://archlinux.org)<br><br>- 🌱 I’m currently learning: **JavaScript and Python**<br><br>- 👯 I’m looking to collaborate on: [free software](https://www.gnu.org/philosophy/free-sw.en.html)<br><br>- 🤝 I’m looking for help with: **Css, JavaScript, and Python**<br><br>- 👨‍💻 All of my projects are available at: github and [codeberg](https://codeberg.org/be1ac)<br><br>- 💬 Ask me about: **any code in C because I am very good at it!**<br><br>- 📫 How to reach me: **githubhelp.hqu1p@simplelogin.com**<br><br>- ⚡ Fun fact **linux is more fun than windows**<br><br>- 🍧: I Highly Recommend You Check Out My [.Files](https://github.com/Be1acProgrammer/dotfiles)<br>
+
+- 🔭 I’m currently working on: [linux daily](https://archlinux.org)
+
+- 🌱 I’m currently learning: **JavaScript and Python**
+
+- 👯 I’m looking to collaborate on: [free software](https://www.gnu.org/philosophy/free-sw.en.html)
+
+- 🤝 I’m looking for help with: **Css, JavaScript, and Python**
+
+- 👨‍💻 All of my projects are available at: github and [codeberg](https://codeberg.org/be1ac)
+
+- 💬 Ask me about: **any code in C because I am very good at it!**
+
+- 📫 How to reach me: **githubhelp.hqu1p@simplelogin.com**
+
+- ⚡ Fun fact **linux is more fun than windows**
+
+- 🍧: I Highly Recommend You Check Out My [.Files](https://github.com/Be1acProgrammer/dotfiles)<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/N6cfyy8pME) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/zagafr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pczaga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zagaft) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCYd3HvLRAjy2hWOKG1AHsTQ) 
