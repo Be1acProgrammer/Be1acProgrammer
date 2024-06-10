@@ -1,4 +1,5 @@
-# 💫 About Me:
+</details>
+<summary><b> # 💫 About Me: <summary><b>
 
 - 🔭 I’m currently working on: [linux daily](https://archlinux.org)
 
@@ -17,6 +18,8 @@
 - ⚡ Fun fact **linux is more fun than windows**
 
 - 🍧: I Highly Recommend You Check Out My [.Files](https://github.com/Be1acProgrammer/dotfiles)<br>
+
+</details>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/N6cfyy8pME) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/zagafr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pczaga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zagaft) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCYd3HvLRAjy2hWOKG1AHsTQ) 
