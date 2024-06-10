@@ -1,5 +1,7 @@
-</details>
-<summary><b> # 💫 About Me: <summary><b>
+💫 About Me:
+
+<details>
+<summary><b>Info</b></summary>
 
 - 🔭 I’m currently working on: [linux daily](https://archlinux.org)
 
