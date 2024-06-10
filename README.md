@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ZagaNerd</h1>
+<h1 align="center">Hi 👋, I'm Mr.Zaga!</h1>
 
 [![](https://visitcount.itsvg.in/api?id=Be1acProgrammer&icon=5&color=3)](https://visitcount.itsvg.in)
 
