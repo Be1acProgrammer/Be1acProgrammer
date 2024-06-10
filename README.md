@@ -43,31 +43,16 @@
 
 <details>
 
+-------------
 # 📊 GitHub Stats:
-
-<details>
-<summary><b>📊</b></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=Be1acProgrammer&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Be1acProgrammer&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Be1acProgrammer&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<details>
-
 ## 🏆 GitHub Trophies
 
-<details>
-<summary><b>🏆</b></summary>
-
 ![](https://github-profile-trophy.vercel.app/?username=Be1acProgrammer&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
-
-<details><details><details>
-
-
-
-
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -75,6 +60,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Be1acProgrammer&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
+<!---
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+--->
 
