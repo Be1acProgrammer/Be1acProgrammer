@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Be1acProgrammer&icon=5&color=3)](https://visitcount.itsvg.in)
+
 ## 💫 About Me:
 
 <details>
@@ -45,5 +47,3 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Be1acProgrammer&icon=5&color=3)](https://visitcount.itsvg.in)
