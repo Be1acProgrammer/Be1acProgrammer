@@ -44,11 +44,15 @@
 ### ✍️ Random Dev Quote
 
 </details>
-<summary><b>Quote</b></summary>
+<summary><b>quote</b></summary>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+
+
 </details>
+
+
 
 <!---
 ### 🔝 Top Contributed Repo
