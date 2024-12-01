@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on: [linux daily](https://archlinux.org)
 
-- 🌱 I’m currently learning: **JavaScript and Python**
+- 🌱 I’m currently learning: **Rust and Python**
 
 - 👯 I’m looking to collaborate on: [free software](https://www.gnu.org/philosophy/free-sw.en.html)
 
-- 🤝 I’m looking for help with: **Css, JavaScript, and Python**
+- 🤝 I’m looking for help with: **Css, Rust, and Python**
 
 - 👨‍💻 All of my projects are available at: github and [codeberg](https://codeberg.org/be1ac)
 
